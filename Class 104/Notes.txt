@@ -1,0 +1,22 @@
+Kind Of Data Which Provides Information Is Known As Desprective Data,
+It Is Also Known As Central Tendancy.
+
+Its Examples Are-
+1)Mean("Average")
+For ex-
+A=[23,24,25,26,2,20]
+Sum=23+24+25+26+2+20
+Mean=Sum/6
+
+2)Mode("Highest Occurance Of A Number")
+For ex-
+A=[23,24,25,23,25,15,23]
+Mode=23
+
+3)Median("Middle Number")
+For ex-
+A=[23,24,25,24,25,15,23]
+Median=24,
+
+A=[23,25,26,30,35,23,46,55]
+Median=32.5(30+35/2)
